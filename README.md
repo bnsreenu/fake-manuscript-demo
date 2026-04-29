@@ -129,7 +129,7 @@ Possible directions for the field to consider:
 **Sreenivas Bhattiprolu (DigitalSreeni)**
 DigitalSreeni LLC., Antioch, CA, USA
 
-YouTube: [DigitalSreeni](https://www.youtube.com/@DigitalSreeni)
+YouTube: [DigitalSreeni](https://www.youtube.com/c/DigitalSreeni)
 
 This demonstration was built and shared in the spirit of open science and responsible AI literacy. If you found it useful or alarming, both reactions are appropriate.
 
@@ -147,5 +147,5 @@ If you reference this demonstration in your own work:
 
 ```
 Bhattiprolu, S. (2025). fake-manuscript-demo: A controlled demonstration of AI-generated 
-scientific manuscript fabrication. GitHub. https://github.com/DigitalSreeni/fake-manuscript-demo
+scientific manuscript fabrication. GitHub. [https://github.com/DigitalSreeni/fake-manuscript-demo](https://github.com/bnsreenu/fake-manuscript-demo/blob/main/bhattiprolu_manuscript.pdf)
 ```
